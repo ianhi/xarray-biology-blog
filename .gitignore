@@ -144,3 +144,4 @@ dmypy.json
 .DS_Store
 
 **/data
+segmented_experiment.zarr
