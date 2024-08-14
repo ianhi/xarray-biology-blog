@@ -1,0 +1,13 @@
+{
+    "cellprob_threshold": -1,
+    "channels": [
+        [
+            0,
+            0
+        ]
+    ],
+    "diameter": 40,
+    "exposure": 5,
+    "flow_threshold": 0.6,
+    "normalize": false
+}
